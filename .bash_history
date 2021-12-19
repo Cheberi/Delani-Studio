@@ -313,3 +313,4 @@ sudo apt install snapd
 sudo snap install snapd
 snap install -classic anbox-installer && anbox-installer
 scrcpy
+git clone https://github.com/Cheberi/Delani-Studio.git
