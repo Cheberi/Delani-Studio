@@ -314,3 +314,38 @@ sudo snap install snapd
 snap install -classic anbox-installer && anbox-installer
 scrcpy
 git clone https://github.com/Cheberi/Delani-Studio.git
+git init
+git clone https://github.com/Cheberi/Delani-Studio.git
+git init
+git clone https://github.com/Cheberi/Delani-Studio.git
+git init
+git clone https://github.com/Cheberi/Delani-Studio.git
+git init
+git clone https://github.com/Cheberi/Delani-Studio.git
+sudo apt-get install wondershaper
+cd/bin
+git clone https://github.com/magnific0/wondershaper.git
+cd wondershaper sudo make install
+clear
+cd wondershaper
+sudo make install
+sudo systemc1 enable wondershaper,service
+sudo systemct1 enable wondershaper.service
+ls
+cd Moringa
+ls
+cd IP3-master
+git init
+git clone https://github.com/Cheberi/Delani-Studio.git
+cd MoringaSchool
+cd Delani-Studio
+git init
+git clone https://github.com/Cheberi/DelaniStudio.git
+git add style.css
+npm install jquery
+bower install jquery
+sudo snap bower
+git clone git://github.com/jquery/jquery.git
+git clone git://github.com/jquery/jquery.git
+npm install jquery@3.6.0
+clear
